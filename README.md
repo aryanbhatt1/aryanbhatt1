@@ -13,5 +13,5 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies, f
         <img src="https://img.shields.io/twitter/follow/imaryanbhatt?logo=twitter&style=for-the-badge" alt="imaryanbhatt"/>
     </a>
 </p>
-- 📫 Where to find me?  **ishikakesarwani2000@gmail.com**
+- 📫 Where to find me ? **aryanbhatt1002@gmail.com**
 <br><br>
