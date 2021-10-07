@@ -4,3 +4,4 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies, f
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanbhatt1&color=blue" alt="aryanbhatt1" /> </p>
 <p>
+  <a align= "center" href="https://github.com/aryanbhatt1">
