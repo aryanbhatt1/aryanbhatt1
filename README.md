@@ -15,7 +15,16 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies, f
 </p>
 <a href="mailto:aryanbhatt1002@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br><br>
+<hr>
 
+<h3 align="center">Find Me Here 👇</h3>
+<p align="center">
+    <a href="https://twitter.com/imaryanbhatt" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="imaryanbhatt1" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aryanbhatt/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="aryanbhatt" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/_aryanbhatt" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_aryanbhatt" height="50" width="50" /></a>
+</p>
+
+<hr>
 <p align="center">
   <img src="https://github.com/aryanbhatt1/aryanbhatt1/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
