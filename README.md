@@ -13,5 +13,5 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies, f
         <img src="https://img.shields.io/twitter/follow/imaryanbhatt?logo=twitter&style=for-the-badge" alt="imaryanbhatt"/>
     </a>
 </p>
-- 📫 Where to find me ? <a href="mailto:aryanbhatt1002@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:aryanbhatt1002@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br><br>
