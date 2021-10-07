@@ -8,7 +8,7 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies, f
     <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/43762/screenshots/2605118/media/df7fc50d1602bd2ab8561549bc5688f6.gif"/> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=aryanbhatt1&show_icons=true&theme=tokyonight" />
-<p align="right"> 
+<p align="left"> 
     <a href="https://twitter.com/imaryanbhatt" target="blank">
         <img src="https://img.shields.io/twitter/follow/imaryanbhatt?logo=twitter&style=for-the-badge" alt="imaryanbhatt"/>
     </a>
