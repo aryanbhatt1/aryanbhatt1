@@ -2,7 +2,25 @@
 <h5 align="center">
 I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies, from Sathyabama Institute of Science and Technology. I am a Competitve Programmar, web developer, and Photographer. 
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanbhatt1&color=blue" alt="aryanbhatt1" /> </p>
+<br>
+<h2> My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<br>
+<p>
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'>
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> 
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'>
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'>
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'>
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'>
+    <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'>
+</p>
+<h2></h2>
+
 <p>
     <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=aryanbhatt1&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
     <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/43762/screenshots/2605118/media/df7fc50d1602bd2ab8561549bc5688f6.gif"/> </a>
