@@ -37,7 +37,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanbhatt1&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">|<img src="https://github-readme-stats.vercel.app/api?username=aryanbhatt1&show_icons=true&theme=tokyonight"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhatt1&layout=compact&theme=tokyonight"/>|<img src="https://github-readme-stats.vercel.app/api/wakatime?username=aryanbhatt1&theme=tokyonight&v=2"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhatt1&layout=compact&theme=tokyonight"/>|<img src="https://github-readme-stats.vercel.app/api/wakatime?username=aryanbhatt1&layout=compact&theme=tokyonight"/>
 
 
 <p align="left"> 
