@@ -21,12 +21,13 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies, f
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'>
 </p>
 <h2></h2>
-<br>
-<p>
-    <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=aryanbhatt1&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
-    <img align="right" width="500" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
-</p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=aryanbhatt1&show_icons=true&theme=tokyonight" />
+
+## Github Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aryanbhatt1&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">|<img src="https://github-readme-stats.vercel.app/api?username=aryanbhatt1&show_icons=true&theme=tokyonight"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhatt1&layout=compact&theme=tokyonight"/>|
+
 <p align="left"> 
     <a href="https://twitter.com/imaryanbhatt" target="blank">
         <img src="https://img.shields.io/twitter/follow/imaryanbhatt?logo=twitter&style=for-the-badge" alt="imaryanbhatt"/>
