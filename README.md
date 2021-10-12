@@ -20,10 +20,10 @@ I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies, f
     <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'>
 </p>
 <h2></h2>
-
+<br>
 <p>
     <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=aryanbhatt1&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
-    <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/43762/screenshots/2605118/media/df7fc50d1602bd2ab8561549bc5688f6.gif"/> </a>
+    <img align="right"src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=aryanbhatt1&show_icons=true&theme=tokyonight" />
 <p align="left"> 
