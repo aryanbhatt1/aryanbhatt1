@@ -6,7 +6,7 @@
   class WhoAmI:
     user = 'Aryan Bhatt'
 	curr_edu = "BE CSE"
-    currently_learning = "Rest Api"
+    currently_learning = "React JS"
 	hobbies = [
 		       'Coding',
                 'Painting',
