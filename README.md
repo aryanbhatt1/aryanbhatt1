@@ -19,8 +19,8 @@
 		return New_Delhi_India()
 	 
 	def Ambitions():
-		BecomeSoftwareEngineer()
-		CodeChef_6_star()
+		Make_People_happy()
+		Bring_Change()
          Travel_around_the_world()
         
  ```
