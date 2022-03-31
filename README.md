@@ -6,7 +6,7 @@
   class WhoAmI:
     user = 'Aryan Bhatt'
 	curr_edu = "BE CSE"
-    currently_learning = "How to sleep"
+    currently_learning = "Hyperledger Indy"
 	hobbies = [
 		       'Coding',
                 'Painting',
